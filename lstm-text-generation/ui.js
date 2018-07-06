@@ -29,7 +29,8 @@ const TEXT_DATA_URLS = {
   'pgm': 'https://ia600208.us.archive.org/22/items/TheGreekMagicalPapyriInTranslation/The_Greek_Magical_Papyri_in_Translation_djvu.txt',
   'carnegie': 'https://ia801200.us.archive.org/3/items/DaleCarnegieHOWTOWINFRIENDSANDINFLUENCEPEOPLE_201609/Dale%20Carnegie%20HOW%20TO%20WIN%20FRIENDS%20AND%20INFLUENCE%20PEOPLE_djvu.txt',
   'liberal': 'https://ia801005.us.archive.org/6/items/CrowleyTheBookOfTheLaw/Crowley,%20Aleister%20-%201904%20-%20The%20Book%20of%20the%20Law_djvu.txt',
-  'tao': 'https://ia600209.us.archive.org/11/items/TaoTeChing/Tao_Te_Ching_djvu.txt'
+  'tao': 'https://ia600209.us.archive.org/11/items/TaoTeChing/Tao_Te_Ching_djvu.txt',
+  'sleep': 'https://krevitte.com/work/ai/Sleep_lyrics.txt'
 }
 
 // UI controls.
